@@ -10,27 +10,27 @@ import {
 } from "react-icons/io";
 
 // import images
-import Features1Img from "./assets/img/features-1.png";
-import Features2Img from "./assets/img/features-2.png";
-import ChairImg from "./assets/img/chair.png";
-import BedImg from "./assets/img/bed.png";
-import CupboardImg from "./assets/img/cupboard.png";
-import LightingImg from "./assets/img/lighting.png";
-import Product1Img from "./assets/img/products/product-1.png";
-import Product2Img from "./assets/img/products/product-2.png";
-import Product3Img from "./assets/img/products/product-3.png";
-import Product4Img from "./assets/img/products/product-4.png";
-import Product5Img from "./assets/img/products/product-5.png";
-import Product6Img from "./assets/img/products/product-6.png";
-import Product7Img from "./assets/img/products/product-7.png";
-import Product8Img from "./assets/img/products/product-8.png";
-import Product9Img from "./assets/img/products/product-9.png";
-import Product10Img from "./assets/img/products/product-10.png";
-import TestimonialImg from "./assets/img/testimonial.png";
-import Avatar1Img from "./assets/img/avatar-1.png";
-import Avatar2Img from "./assets/img/avatar-2.png";
-import Avatar3Img from "./assets/img/avatar-3.png";
-import Avatar4Img from "./assets/img/avatar-4.png";
+import Features1Img from "./assets/img/features-1.svg";
+import Features2Img from "./assets/img/features-2.svg";
+import ChairImg from "./assets/img/chair.svg";
+import BedImg from "./assets/img/bed.svg";
+import CupboardImg from "./assets/img/cupboard.svg";
+import LightingImg from "./assets/img/lighting.svg";
+import Product1Img from "./assets/img/products/product-1.svg";
+import Product2Img from "./assets/img/products/product-2.svg";
+import Product3Img from "./assets/img/products/product-3.svg";
+import Product4Img from "./assets/img/products/product-4.svg";
+import Product5Img from "./assets/img/products/product-5.svg";
+import Product6Img from "./assets/img/products/product-6.svg";
+import Product7Img from "./assets/img/products/product-7.svg";
+import Product8Img from "./assets/img/products/product-8.svg";
+import Product9Img from "./assets/img/products/product-9.svg";
+import Product10Img from "./assets/img/products/product-10.svg";
+import TestimonialImg from "./assets/img/testimonial.svg";
+import Avatar1Img from "./assets/img/avatar-1.svg";
+import Avatar2Img from "./assets/img/avatar-2.svg";
+import Avatar3Img from "./assets/img/avatar-3.svg";
+import Avatar4Img from "./assets/img/avatar-4.svg";
 
 export const navigation = [
   {
@@ -52,9 +52,9 @@ export const navigation = [
 ];
 
 export const hero = {
-  title: "Creative Home Simpify your Furniture",
+  title: "Your choice,  your call, Simplify your Home Furniture with us.",
   subtitle:
-    "Do i have consent to record this meeting gain locaion, root-and-branch, review, nor game plan who’s the goto",
+    "What you want and what you need, choose your style, and we build them for you.",
   buttonText: "Shop Now",
 };
 

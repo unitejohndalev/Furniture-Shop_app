@@ -28,10 +28,13 @@ module.exports = {
         },
         white: "#fff",
         pink: "pink",
+        "button-bg": "#ffffff66",
+        'button-hover' : '#ffffff80'
+        
       },
       backgroundImage: {
-        hero: 'url("/src/assets/img/hero-bg.png")',
-        newsletter: 'url("/src/assets/img/newsletter.png")',
+        hero: 'url("/src/assets/img/hero-bg.svg")',
+        newsletter: 'url("/src/assets/img/newsletter.svg")',
       },
       dropShadow: {
         primary: "0px 4px 10px rgba(15, 27, 51, 0.05);",
