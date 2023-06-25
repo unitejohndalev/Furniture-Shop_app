@@ -29,7 +29,7 @@ const Hero = () => {
         <button
           className="bg-button-bg hover:bg-button-hover
         px-[35px] py-[9px] mb-[160px] text-xl rounded-md backdrop-blur-md
-        transition lg:px-[80px] lg:py-[16px] lg:mb-[194px]"
+        transition lg:px-[80px] lg:py-[16px] lg:mb-[80px]"
         >
           {buttonText}
         </button>

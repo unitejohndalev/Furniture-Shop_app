@@ -29,8 +29,7 @@ module.exports = {
         white: "#fff",
         pink: "pink",
         "button-bg": "#ffffff66",
-        'button-hover' : '#ffffff80'
-        
+        "button-hover": "#ffffff80",
       },
       backgroundImage: {
         hero: 'url("/src/assets/img/hero-bg.svg")',
@@ -39,6 +38,7 @@ module.exports = {
       dropShadow: {
         primary: "0px 4px 10px rgba(15, 27, 51, 0.05);",
       },
+     
     },
   },
   plugins: [],
